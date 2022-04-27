@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/uwupet/stuff-api.git
+[submodule "app"]
+	path = app
+	url = https://github.com/uwupet/stuff-app.git
